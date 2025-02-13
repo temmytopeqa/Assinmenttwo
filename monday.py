@@ -1,2 +1,5 @@
 print("Hello Monday")
 print("Hello Monday")
+print(" looks good awesome doing great")
+print(" looks good awesome doing great")
+print("Ade is good to be true")
