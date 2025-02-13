@@ -8,4 +8,5 @@ print("Hello Tuesday")
 print("Hello Wednesday")
 print("Hello Thursday")
 print("Ade is good to be true")
-
+print("I need to be sure am good to go")
+print("Ola is a superstar")
