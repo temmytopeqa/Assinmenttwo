@@ -5,5 +5,7 @@ print(" looks good awesome doing great")
 print("Ade is good to be true")
 print("Ade is good to be true let me know now")
 print("Hello Tuesday")
-print("Hello Wenesday")
+print("Hello Wednesday")
 print("Hello Thursday")
+print("Ade is good to be true")
+
